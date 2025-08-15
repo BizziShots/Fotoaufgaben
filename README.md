@@ -1,16 +1,16 @@
 # Fotoaufgaben
 
-Stellt euch vor, ihr habt unsichtbare Fische im Gesicht – und die müssen weg.
-Jeder versucht, gleichzeitig sein eigenes Ohr zu lecken.
-Tut so, als würdet ihr von einer riesigen Gabel gegessen.
-Zieht den Bauch so ein, als hättet ihr gerade einen Luftballon verschluckt.
-Macht eine „Ich falle vom Stuhl, aber elegant“-Pose.
-🪑 Dinge zweckentfremden
-Benutzt einen Schuh als Telefon – und streitet euch am Telefon.
-Setzt einem anderen eine Banane als Hut auf.
-Umarmt einen Stuhl, als hättet ihr euch seit Jahren nicht gesehen.
-Lasst so tun, als würdet ihr einen Staubsauger streicheln.
-Macht ein Liebespaar aus zwei Topfpflanzen.
+#Stellt euch vor, ihr habt unsichtbare Fische im Gesicht – und die müssen weg.
+#Jeder versucht, gleichzeitig sein eigenes Ohr zu lecken.
+#Tut so, als würdet ihr von einer riesigen Gabel gegessen.
+#Zieht den Bauch so ein, als hättet ihr gerade einen Luftballon verschluckt.
+#Macht eine „Ich falle vom Stuhl, aber elegant“-Pose.
+#🪑 Dinge zweckentfremden
+#Benutzt einen Schuh als Telefon – und streitet euch am Telefon.
+#Setzt einem anderen eine Banane als Hut auf.
+#Umarmt einen Stuhl, als hättet ihr euch seit Jahren nicht gesehen.
+#Lasst so tun, als würdet ihr einen Staubsauger streicheln.
+#Macht ein Liebespaar aus zwei Topfpflanzen.
 🦄 Absurde Szenen
 Stellt nach, wie ihr in Zeitlupe von einer Schnecke überrannt werdet.
 Spielt eine dramatische Szene: Eis schmilzt – und niemand kann es aufhalten.
